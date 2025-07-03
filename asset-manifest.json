@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Student-and-employee-form/static/css/main.de79cbd4.css",
+    "main.js": "/Student-and-employee-form/static/js/main.41283644.js",
+    "static/js/453.f2dd41f2.chunk.js": "/Student-and-employee-form/static/js/453.f2dd41f2.chunk.js",
+    "index.html": "/Student-and-employee-form/index.html",
+    "main.de79cbd4.css.map": "/Student-and-employee-form/static/css/main.de79cbd4.css.map",
+    "main.41283644.js.map": "/Student-and-employee-form/static/js/main.41283644.js.map",
+    "453.f2dd41f2.chunk.js.map": "/Student-and-employee-form/static/js/453.f2dd41f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de79cbd4.css",
+    "static/js/main.41283644.js"
+  ]
+}
